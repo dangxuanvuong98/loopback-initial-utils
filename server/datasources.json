@@ -1,0 +1,12 @@
+{
+    "mysql_ktxh_caphuyen_custom": {
+      "name": "ktxh_caphuyen_custom",
+      "host": "localhost",
+      "port": 3306,
+      "database": "ktxh_caphuyen_custom",
+      "user": "local_user_001",
+      "password": "password",
+      "connector": "mysql"
+    }
+  }
+  

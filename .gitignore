@@ -1,0 +1,28 @@
+*.csv
+*.dat
+*.iml
+*.log
+*.out
+*.pid
+*.seed
+*.sublime-*
+*.swo
+*.swp
+*.tgz
+*.xml
+.DS_Store
+.idea
+.project
+.strong-pm
+coverage
+node_modules
+npm-debug.log
+
+
+#local configuration
+server/config.local.json
+server/datasources.local.json
+
+# Ignore local dev
+start_dev.sh
+start_local.sh

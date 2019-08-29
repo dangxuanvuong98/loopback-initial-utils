@@ -1,0 +1,168 @@
+{
+  "_meta": {
+    "sources": [
+      "loopback/common/models",
+      "loopback/server/models",
+      "../common/models",
+      "./models"
+    ],
+    "mixins": [
+      "loopback/common/mixins",
+      "loopback/server/mixins",
+      "../common/mixins",
+      "./mixins"
+    ]
+  },
+  "DboBieunhaplieu": {
+    "dataSource": "mysql_ktxh_caphuyen_custom",
+    "public": true
+  },
+  "DboBieunhaplieuChitieu": {
+    "dataSource": "mysql_ktxh_caphuyen_custom",
+    "public": true
+  },
+  "DboBieunhaplieuDonvinhap": {
+    "dataSource": "mysql_ktxh_caphuyen_custom",
+    "public": true
+  },
+  "DboBieunhaplieuDonvitonghop": {
+    "dataSource": "mysql_ktxh_caphuyen_custom",
+    "public": true
+  },
+  "DboBieunhaplieuDonvitonghopcaphuyen": {
+    "dataSource": "mysql_ktxh_caphuyen_custom",
+    "public": true
+  },
+  "DboBieunhaplieuDonvitonghopcaptinh": {
+    "dataSource": "mysql_ktxh_caphuyen_custom",
+    "public": true
+  },
+  "DboBieunhaplieuKybaocao": {
+    "dataSource": "mysql_ktxh_caphuyen_custom",
+    "public": true
+  },
+  "DboBieunhaplieuTruongnhaplieu": {
+    "dataSource": "mysql_ktxh_caphuyen_custom",
+    "public": true
+  },
+  "DboChitieu": {
+    "dataSource": "mysql_ktxh_caphuyen_custom",
+    "public": true
+  },
+  "DboChitieunhom": {
+    "dataSource": "mysql_ktxh_caphuyen_custom",
+    "public": true
+  },
+  "DboChitieuphanto": {
+    "dataSource": "mysql_ktxh_caphuyen_custom",
+    "public": true
+  },
+  "DboChitieuphantochitiet": {
+    "dataSource": "mysql_ktxh_caphuyen_custom",
+    "public": true
+  },
+  "DboDatadetail": {
+    "dataSource": "mysql_ktxh_caphuyen_custom",
+    "public": true
+  },
+  "DboDatamaster": {
+    "dataSource": "mysql_ktxh_caphuyen_custom",
+    "public": true
+  },
+  "DboDatastatus": {
+    "dataSource": "mysql_ktxh_caphuyen_custom",
+    "public": true
+  },
+  "DboQcDonvinhom": {
+    "dataSource": "mysql_ktxh_caphuyen_custom",
+    "public": true
+  },
+  "DboQcHuyen": {
+    "dataSource": "mysql_ktxh_caphuyen_custom",
+    "public": true
+  },
+  "DboQcTinh": {
+    "dataSource": "mysql_ktxh_caphuyen_custom",
+    "public": true
+  },
+  "DboQcXa": {
+    "dataSource": "mysql_ktxh_caphuyen_custom",
+    "public": true
+  },
+  "DboQlKybaocao": {
+    "dataSource": "mysql_ktxh_caphuyen_custom",
+    "public": true
+  },
+  "DboQtChucnangphanmem": {
+    "dataSource": "mysql_ktxh_caphuyen_custom",
+    "public": true
+  },
+  "DboQtDonvi": {
+    "dataSource": "mysql_ktxh_caphuyen_custom",
+    "public": true
+  },
+  "DboQtDonviDiaban": {
+    "dataSource": "mysql_ktxh_caphuyen_custom",
+    "public": true
+  },
+  "DboQtHopthuhoidap": {
+    "dataSource": "mysql_ktxh_caphuyen_custom",
+    "public": true
+  },
+  "DboQtNamlamviec": {
+    "dataSource": "mysql_ktxh_caphuyen_custom",
+    "public": true
+  },
+  "DboQtTacnhan": {
+    "dataSource": "mysql_ktxh_caphuyen_custom",
+    "public": true
+  },
+  "DboQtTacnhanChucnangphanmem": {
+    "dataSource": "mysql_ktxh_caphuyen_custom",
+    "public": true
+  },
+  "DboQtUsers": {
+    "dataSource": "mysql_ktxh_caphuyen_custom",
+    "public": true
+  },
+  "DboQtUsersTacnhan": {
+    "dataSource": "mysql_ktxh_caphuyen_custom",
+    "public": true
+  },
+  "DboSysCaphanhchinh": {
+    "dataSource": "mysql_ktxh_caphuyen_custom",
+    "public": true
+  },
+  "DboSysDatastatus": {
+    "dataSource": "mysql_ktxh_caphuyen_custom",
+    "public": true
+  },
+  "DboSysKybaocao": {
+    "dataSource": "mysql_ktxh_caphuyen_custom",
+    "public": true
+  },
+  "DboSysLoaibieunhaplieu": {
+    "dataSource": "mysql_ktxh_caphuyen_custom",
+    "public": true
+  },
+  "DboSysLoaitruongdulieu": {
+    "dataSource": "mysql_ktxh_caphuyen_custom",
+    "public": true
+  },
+  "DboSysNguonsolieu": {
+    "dataSource": "mysql_ktxh_caphuyen_custom",
+    "public": true
+  },
+  "DboSysNhaplieu01": {
+    "dataSource": "mysql_ktxh_caphuyen_custom",
+    "public": true
+  },
+  "DboSysTrangthaidongmo": {
+    "dataSource": "mysql_ktxh_caphuyen_custom",
+    "public": true
+  },
+  "DboTruongnhaplieu": {
+    "dataSource": "mysql_ktxh_caphuyen_custom",
+    "public": true
+  }
+}
